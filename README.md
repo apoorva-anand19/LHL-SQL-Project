@@ -62,4 +62,4 @@
 ## Future Goals
 
 - Given more time and most importantly, clarity and direction, would create new tables with what
-  we think might be data value and do analysis based on that.
+  we think might be unique and distinct data and of value and do analysis based on that.
